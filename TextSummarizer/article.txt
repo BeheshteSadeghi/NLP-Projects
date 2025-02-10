@@ -1,0 +1,13 @@
+Artificial intelligence for automatic classification of needle EMG signals:A scoping review
+This scoping review provides an overview of artificial intelligence (AI), including machine and
+deep learning techniques, in the interpretation of clinical needle electromyography (nEMG) signals.
+Methods: A comprehensive search of Medline, Embase and Web of Science was conducted to find peerreviewed journal articles. All papers published after 2010 were included. The methodological quality of
+the included studies was assessed with CLAIM (checklist for artificial intelligence in medical imaging).
+Results: 51 studies were identified that fulfilled the inclusion criteria. 61% used open-source EMGlab data
+set to develop models to classify nEMG signal in healthy, amyotrophic lateral sclerosis (ALS) and myopathy (25 subjects). Only two articles developed models to classify signals recorded at rest. Most articles
+reported high performance accuracies, but many were subject to bias and overtraining.
+Conclusions: Current AI-models of nEMG signals are not sufficient for clinical implementation.
+Suggestions for future research include emphasizing the need for an optimal training and validation
+approach using large datasets of clinical nEMG data from a diverse patient population.
+Significance: The outcomes of this study and the suggestions made aim to contribute to developing AImodels that can effectively handle signal quality variability and are suitable for daily clinical practice
+in interpreting nEMG signals.
